@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Project Portfolio – YouTube Video Gallery</h2>
 
 - [Ladder Editor PLC-UC: ](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s)
 
