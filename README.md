@@ -20,7 +20,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Ladder Editor PLC-UC](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s)
+- [Ladder Editor PLC-UC: ](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s)
 
 <h2> 🤳 Connect with me:</h2>
 
