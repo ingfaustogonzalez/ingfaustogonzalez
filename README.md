@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Fausto Gonzalez! <br/><a href="https://github.com/ingfaustogonzalez">Back-End Developer and Programmer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
+<h2>👨‍💻 Back-End Development Projects:</h2>
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -9,7 +9,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+-->
 <h2>📺 Project Portfolio – YouTube Video Gallery</h2>
 
 - [Ladder Editor PLC-UC:](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s) My Bachelor’s Thesis Project
