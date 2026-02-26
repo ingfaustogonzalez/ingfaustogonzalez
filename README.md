@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Fausto Gonzalez! <br/><a href="https://github.com/ingfaustogonzalez">Back-End Developer and Programmer</a></h1>
 
-<h2>👨‍💻 Back-End Development Projects:</h2>
+<h2>👨🏻‍💻 Back-End Development Projects:</h2>
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -12,7 +12,10 @@
 -->
 <h2>📺 Project Portfolio – YouTube Video Gallery</h2>
 
-- [Ladder Editor PLC-UC:](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s) My Bachelor’s Thesis Project
+- [Ladder-to-Assembly Compiler (PLC-UC):](https://www.youtube.com/watch?v=u2X232RHOZs&t=7s) My Bachelor’s Thesis Project
+
+<h2>🌐 Web Pages</h2>
+- <a href="https://riocs.ca/">Rio Construction Services</a>
 
 <h2> 🤳 Connect with me:</h2>
 
