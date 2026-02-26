@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Fausto Gonzalez! <br/><br/><a href="https://github.com/ingfaustogonzalez">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi there, I'm Fausto Gonzalez! <br/><a href="https://github.com/ingfaustogonzalez">Back-End Developer and Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
