@@ -39,7 +39,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 ## 📺 Project Portfolio – YouTube Video Gallery
 
 ### Software Development Projects
-- **Ladder-to-Assembly Compiler (PLC-UC) (Academic Project)**  
+- **Ladder-to-Assembly Compiler (PLC-UC)** ***(Academic Project)***  
   Java-based software application demonstrating compiler design and code translation principles.  
   ▶️ [Watch Demo](https://www.youtube.com/watch?v=u2X232RHOZs)
 
@@ -54,10 +54,15 @@ Currently focused on back-end development, RESTful applications, and database-dr
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fausto-gonzalez-2441691a4/)
-- 📺 [YouTube](https://www.youtube.com/watch?v=u2X232RHOZs)
-- 💻 [GitHub](https://github.com/ingfaustogonzalez)
+[<img align="left" alt="Fausto Gonzalez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fausto Gonzalez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Fausto Gonzalez | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/fausto-gonzalez-2441691a4/
+[youtube]: https://www.youtube.com/watch?v=u2X232RHOZs
+[github]: https://github.com/ingfaustogonzalez
 
 
 <!--
