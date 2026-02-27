@@ -39,7 +39,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 ## 📺 Project Portfolio – YouTube Video Gallery
 
 ### Software Development Projects
-- **Ladder-to-Assembly Compiler (Academic Project)**  
+- **Ladder-to-Assembly Compiler (PLC-UC) (Academic Project)**  
   Java-based software application demonstrating compiler design and code translation principles.  
   ▶️ [Watch Demo](https://www.youtube.com/watch?v=u2X232RHOZs)
 
