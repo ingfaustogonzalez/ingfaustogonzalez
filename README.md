@@ -43,7 +43,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
   Java-based software application demonstrating compiler design and code translation principles.  
   ▶️ [Watch Demo](https://www.youtube.com/watch?v=u2X232RHOZs)
 
-- [littlelemon-restaurant-webapp](https://riocs.ca/)  
+- [littlelemon-restaurant-webapp](https://github.com/ingfaustogonzalez/littlelemon-restaurant-webapp)  
   Full-stack Django web application for a fictional restaurant. Includes dynamic menu pages, detailed menu item views using URL parameters, booking functionality, admin panel integration, and template inheritance.
 
 ---
