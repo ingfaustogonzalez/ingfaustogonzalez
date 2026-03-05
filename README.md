@@ -43,8 +43,8 @@ Currently focused on back-end development, RESTful applications, and database-dr
   Java-based software application demonstrating compiler design and code translation principles.  
   ▶️ [Watch Demo](https://www.youtube.com/watch?v=u2X232RHOZs)
 
-- [Little Lemon Django Website](https://github.com/ingfaustogonzalez/littlelemon-restaurant-webapp)  
-  A Django project for the fictional Little Lemon restaurant featuring dynamic menu pages, database‑driven content, and clean template structure.
+- [Little Lemon Django Website](https://github.com/ingfaustogonzalez/littlelemon-restaurant-django-website)  
+  A Django project for the fictional Little Lemon restaurant featuring dynamic menu pages, database‑driven content, and a clean template structure.
 
 ---
 
