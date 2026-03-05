@@ -36,7 +36,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 
 ---
 
-## 📺 Project Portfolio – YouTube Video Gallery
+## 📺 Project Portfolio
 
 ### Software Development Projects
 - **Ladder-to-Assembly Compiler (PLC-UC) (Academic Project)**  
