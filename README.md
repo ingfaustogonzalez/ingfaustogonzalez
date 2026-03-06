@@ -46,6 +46,9 @@ Currently focused on back-end development, RESTful applications, and database-dr
 - [Little Lemon Django Website](https://github.com/ingfaustogonzalez/littlelemon-restaurant-django-website)  
   A Django project for the fictional Little Lemon restaurant featuring dynamic menu pages, database‑driven content, and a clean template structure.
 
+- [Little Lemon Django RESTful API](https://github.com/ingfaustogonzalez/littlelemon-django-rest-api)  
+  A Django REST API for Little Lemon enabling role based menu management, cart and order workflows, delivery assignment, and token authentication.
+
 ---
 
 ## 🌐 Web Projects
