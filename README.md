@@ -43,7 +43,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
   Java-based software application demonstrating compiler design and code translation principles.  
   ▶️ [Watch Demo](https://www.youtube.com/watch?v=u2X232RHOZs)
 
-- [🐝🇫🇷 Jeu d'Épellation en Français (Spelling Bee Game)](https://github.com/ingfaustogonzalez/spelling-bee-practice-game)
+- [🐝🇫🇷 Jeu d'Épellation en Français (Spelling Bee Game)](https://github.com/ingfaustogonzalez/spelling-bee-practice-game)  
   Web-based spelling bee practice application built with Python and Streamlit, designed to help users practice French vocabulary through audio prompts, timed responses, and performance tracking using a SQLite database. Developed by myself to support my daughter excel in a French spelling bee competition.
 
 - [Little Lemon Django Website](https://github.com/ingfaustogonzalez/littlelemon-restaurant-django-website)  
