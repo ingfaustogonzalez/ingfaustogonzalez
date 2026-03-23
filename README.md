@@ -69,6 +69,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 
 [<img align="left" alt="Fausto Gonzalez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Fausto Gonzalez | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][indeed]
+[<img align="left" alt="Fausto Gonzalez | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 [<img align="left" alt="Fausto Gonzalez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Fausto Gonzalez | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
@@ -76,6 +77,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 
 [linkedin]: https://www.linkedin.com/in/fausto-gonzalez-2441691a4/
 [indeed]: https://profile.indeed.com/p/faustog-tse9cz2
+[upwork]: https://www.upwork.com/freelancers/~01ca585bf08e954af2?mp_source=share
 [youtube]: https://www.youtube.com/watch?v=u2X232RHOZs
 [github]: https://github.com/ingfaustogonzalez
 
