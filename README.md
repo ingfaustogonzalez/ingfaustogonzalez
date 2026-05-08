@@ -52,7 +52,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 - [Little Lemon Django RESTful API](https://github.com/ingfaustogonzalez/littlelemon-django-rest-api)  
   A Django REST API for Little Lemon enabling role based menu management, cart and order workflows, delivery assignment, and token authentication.
 
-- [DjangoBlog Enhanced](https://github.com/ingfaustogonzalez/DjangoBlog-Enhanced)
+- [DjangoBlog Enhanced](https://github.com/ingfaustogonzalez/DjangoBlog-Enhanced)  
   A Django-based blog website inspired by Django for Beginners by William S. Vincent, extended with authentication-based ownership permissions, automatic author assignment, and custom error handling.
 
 <!--
