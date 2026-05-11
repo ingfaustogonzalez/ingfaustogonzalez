@@ -56,9 +56,12 @@ Currently focused on back-end development, RESTful applications, and database-dr
 - [DjangoBlog Enhanced](https://github.com/ingfaustogonzalez/DjangoBlog-Enhanced)  
   A Django-based blog website inspired by Django for Beginners by William S. Vincent, extended with authentication-based ownership permissions, automatic author assignment, and custom error handling.
 
-<!--
-- [The Full Stack]()
--->
+### Containerization Projects
+- [Podman + Python Project: Hello World with Logs](https://github.com/ingfaustogonzalez/example_1_containerized_python_hello_world)  
+  Learning container fundamentals using Podman and podman-compose. The project demonstrates containerized Python execution with console output, shared logs, and HTTP responses.
+
+- [Containerized Python API Authentication & Redis Stack](https://github.com/ingfaustogonzalez/example_2_containerized_python_api_stack)  
+  Building a containerized backend system with authentication services and Redis integration to understand distributed backend architectures.
 
 ---
 
