@@ -7,7 +7,7 @@
 
 Back-End Developer with experience building dynamic and scalable web applications using Python and Django. Strong understanding of database design, server-side logic, and clean code principles. Passionate about developing efficient, maintainable, and well-structured software solutions.
 
-Currently focused on back-end development, RESTful applications, and database-driven systems.
+Currently focused on back-end development, RESTful applications, and database-driven systems. I'm also currently learning to work with containerized applications using Podman and podman-compose.
 
 ---
 
@@ -20,6 +20,7 @@ Currently focused on back-end development, RESTful applications, and database-dr
 - JavaScript
 - HTML5
 - CSS
+- Containerization: Podman, podman-compose (learning)
 
 ### ⚙️ Frameworks & Technologies
 - Django
