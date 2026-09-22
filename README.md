@@ -67,8 +67,8 @@ Currently focused on back-end development, RESTful applications, and database-dr
 
 ## 🌐 Web Projects
 
-- [FG.dev](https://faustodev.wordpress.com/)  
-  My Personal Portfolio.
+- 🌐 **FG.dev** — [faustodev.wordpress.com](https://faustodev.wordpress.com/)  
+  My personal developer portfolio.
 
 - 🌍 [Rio Construction Services](https://riocs.ca/)  
   Business website development and deployment.
